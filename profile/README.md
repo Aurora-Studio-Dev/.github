@@ -1,7 +1,7 @@
 ## 你好 👋
-[](logo.png)
+![](logo.png)
 ### 正在开发：
-[](amcl.png)
+![](amcl.png)
 [网站](https://aurora.thzstudent.top/)
 <!--
 
