@@ -1,15 +1,15 @@
-## 你好 👋
-![](logo.png)
-### 正在开发：
-![](amcl.png)
-[网站](https://aurora.thzstudent.top/)
-<!--
+<p align="center">
+  <img src="./logo.png" alt="aslogo" width="200"/>
+</p>
 
-**Here are some ideas to get you started:**
+## Our projects
+- [Aurora Star Launcher](https://github.com/example/project1) - This is a fluent launcher of game **Minecraft**
+  
+## How to Contribute
+If you want to contribute to our projects, please read: [Contribution Guidelines](#)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Links
+- Email: 2840519267@qq.com
+
+## Thank you for watching!
+
