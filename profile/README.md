@@ -1,12 +1,10 @@
 <p align="center">
   <img src="./logo.png" alt="aslogo" width="350"/>
-</p>
-
-<p align="center'>
+  <br/>
   Unleash your creativity, software shapes the future.
 </p>
 
----
+
 
 ## 🕹️ Our projects
 
