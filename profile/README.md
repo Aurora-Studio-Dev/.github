@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./logo.png" alt="aslogo" width="200"/>
+  <img src="./logo.png" alt="aslogo" width="350"/>
+  
   Unleash your creativity, software shapes the future.
 </p>
 
