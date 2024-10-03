@@ -10,6 +10,8 @@
   - Website： https://asl.thzstudent.top
  
   - Docs: https://aurorastudio.top/docs/asl/
+ 
+## 🎏 Website & Community
   
   
 ## 👨🏻‍🎨 How to Contribute
@@ -22,9 +24,3 @@
   - WeChat & AliPay : https://aurorastudio.top/aponsor  (Plaese use you smart phone.)
  
 - Thanks for your love and support!
-
-## Links
-- Email: 2840519267@qq.com
-
-## Thank you for watching!
-
