@@ -20,6 +20,8 @@
   - 爱发电 ： https://ifdian.net/a/thzstudent
  
   - WeChat & AliPay : https://aurorastudio.top/aponsor  (Plaese use you smart phone.)
+ 
+- Thanks for your love and support!
 
 ## Links
 - Email: 2840519267@qq.com
