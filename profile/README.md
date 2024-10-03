@@ -1,9 +1,15 @@
 <p align="center">
   <img src="./logo.png" alt="aslogo" width="350"/>
 </p>
-<p align="center'>Unleash your creativity, software shapes the future.</p>
+
+<p align="center'>
+  Unleash your creativity, software shapes the future.
+</p>
+
+---
 
 ## 🕹️ Our projects
+
 - 🚩 Aurora Star Launcher - This is a fluent launcher on **WPF** of game **Minecraft**
 
   - Lang: Chinese
