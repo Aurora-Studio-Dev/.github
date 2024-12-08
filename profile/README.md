@@ -8,6 +8,7 @@
 
 ## 🕹️ Our projects
 
+<!--
 - 🚩 Aurora Star Launcher - This is a fluent launcher on **WPF** of game **Minecraft**
 
   - Lang: Chinese
@@ -15,6 +16,9 @@
   - Website： https://asl.thzstudent.top
  
   - Docs: https://aurorastudio.top/docs/asl/
+-->
+
+<h1 align="center">Coming Sooooooooooooooooooooons (TM)</h1>
  
 ## 🎏 Website & Community
 
