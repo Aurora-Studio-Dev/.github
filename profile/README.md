@@ -18,7 +18,11 @@
   - Docs: https://aurorastudio.top/docs/asl/
 -->
 
-<h1 align="center">Coming Sooooooooooooooooooooons (TM)</h1>
+- 🚩 Open.StarsAPI - This is a API projects
+
+  - Website： https://osa.aurorastudio.top
+ 
+  - Docs: https://docs.aurorastudio.top/docs/osa
  
 ## 🎏 Website & Community
 
